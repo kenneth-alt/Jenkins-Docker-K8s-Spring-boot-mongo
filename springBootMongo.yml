@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: kennethalt99/spring-boot-mongo
+        image: kennethalt99/top-notch
         ports:
         - containerPort: 8080
         env:
